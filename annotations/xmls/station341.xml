@@ -1,13 +1,13 @@
 <annotation>
 	<folder>images</folder>
 	<filename>station341.jpg</filename>
-	<path>/home/friedrich/Documents/images/station341.jpg</path>
+	<path>/home/friedrich/Desktop/images/240x320/images/station341.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>640</width>
-		<height>480</height>
+		<width>320</width>
+		<height>240</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>429</xmin>
-			<ymin>326</ymin>
-			<xmax>479</xmax>
-			<ymax>439</ymax>
+			<xmin>212</xmin>
+			<ymin>161</ymin>
+			<xmax>242</xmax>
+			<ymax>222</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>testim432.jpg</filename>
+	<path>/home/friedrich/Desktop/images/240x320/images/testim432.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>station</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>92</ymin>
+			<xmax>94</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>

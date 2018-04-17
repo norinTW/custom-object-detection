@@ -20,7 +20,7 @@ from utils import label_map_util
 from multiprocessing.dummy import Pool as ThreadPool
 
 MAX_NUMBER_OF_BOXES = 10
-MINIMUM_CONFIDENCE = 0.9
+MINIMUM_CONFIDENCE = 0.8
 
 PATH_TO_LABELS = 'annotations/label_map.pbtxt'
 PATH_TO_TEST_IMAGES_DIR = 'test_images'
